@@ -4,4 +4,4 @@
 
 Up to page: 506
 
-[Bullet points](d)
+- [Bullet points](https://github.com/CheeseTeam/HeadFirstHTML-CSS/blob/master/Bullet-points.md)
